@@ -38,7 +38,6 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
   $ cd gofinances
 ```
 
-
 ## Descrição:
 
 Autor: Alisson de Andrade Araujo"
