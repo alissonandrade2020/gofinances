@@ -38,32 +38,7 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
   $ cd gofinances
 ```
 
-## :gear: Iniciando back-end
-```bash
-  # Entrar no diretório do back-end:
-  $ cd backend
 
-  # Instalar as dependências:
-  $ yarn
-
-  # Rodar as migrations:
-  $ yarn typeorm migration:run
-
-  # Rodar a aplicação:
-  $ yarn dev:server
-```
-
-## :computer: Iniciando front-end
-```bash
-  # Entrar no diretório do back-end:
-  $ cd frontend
-
-  # Instalar as dependências:
-  $ yarn
-
-  # Rodar a aplicação:
-  $ yarn start
-```
 ## Descrição:
 
 Autor: Alisson de Andrade Araujo"
