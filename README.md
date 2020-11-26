@@ -46,11 +46,15 @@ Autor: Alisson de Andrade Araujo"
     <img alt="Aircnc" title="#delicinha" src="https://avatars3.githubusercontent.com/u/39311340?s=400&u=f8570819489cb64bb45dfbfb85f2a82f1b56d11f&v=4" width="250px" />
 </h1>
 
+- [Currículo Lattes](http://lattes.cnpq.br/7594653859194302)
+
  - [Linkedin](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190)
 
 - [Instagram](https://www.instagram.com/alissonandradercc)
 
 - [Github](https://github.com/alissonandrade2020/)
+
+- [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)
 
 ## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
 
