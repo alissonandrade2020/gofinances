@@ -56,12 +56,14 @@ Autor: Alisson de Andrade Araujo"
 
 - [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)
 
-## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
+## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(Alisson de Andrade Araújo):
 
  - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
-
+ 
+ - [Site de Exercícios - Moveit](https://nlw4reactmoveit.vercel.app/)
+ 
  - [Site de Cadastro feito com PHP - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/silex/)
  
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
