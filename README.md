@@ -67,6 +67,10 @@ Autor: Alisson de Andrade Araujo"
 - [Site de Exercícios - Moveit](https://nlw04reactmoveit.vercel.app/)
 
  - [Site de Listagem - Ignite desafio 01](https://iignite01desafio.vercel.app/)
+
+- [Site DtMoney - Ignite 2](https://dtmoneyignite.vercel.app/)
+
+- [Site WatchMe Trilha Extra - Ignite 2](https://ignitewatchmeextra.vercel.app/)
  
 -  [Site de Repositorios - Alisson de Andrade Araújo (Github)](https://igniterepositorios.vercel.app/)
  
