@@ -70,7 +70,11 @@ Autor: Alisson de Andrade Araujo"
 
 - [Site DtMoney - Ignite 2](https://dtmoneyignite.vercel.app/)
 
+- [Site Dashgo - Ignite 3](https://dashgoalisson.vercel.app/)
+
 - [Site WatchMe Trilha Extra - Ignite 2](https://ignitewatchmeextra.vercel.app/)
+
+- [Site IgNews - Ignite Chapter 3](ignewsalisson.vercel.app/)
  
 -  [Site de Repositorios - Alisson de Andrade Araújo (Github)](https://igniterepositorios.vercel.app/)
  
@@ -79,8 +83,14 @@ Autor: Alisson de Andrade Araujo"
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
+
+ - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.herokuapp.com/)
+
+ - [Credit Card](https://creditcardalissonandrade.vercel.app/)
   
  - [HTML + CSS - Responsivo](https://alissonhtmlcss.netlify.app/)
+ 
+  - [PODCASTR - Tudo sobre audio - NLW5](https://podcastralisson.vercel.app)
  
   - [PROFFY - Encontre seu Professor ou tenha aula online](https://proffyalissonandrade.netlify.app)
   
