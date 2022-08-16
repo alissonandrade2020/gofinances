@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido no Bootcamp GoStack 11.0 da Rocketseat com as segu
 - [Polished](https://polished.js.org/)
 - [React Icons](https://www.npmjs.com/package/react-icons)
 
-Feito com ❤️ por Matheus Pires 👋🏻 [Get in touch!](https://github.com/MatheusPires99)
+Feito com ❤️ por Alisson Andrade
