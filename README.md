@@ -32,7 +32,7 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/gofinances.git
+  $ git clone https://github.com/alissonandrade2020/gofinances.git
 
   # Entrar no diretório:
   $ cd gofinances
