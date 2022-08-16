@@ -19,4 +19,4 @@ Esse projeto foi desenvolvido no Bootcamp GoStack 11.0 da Rocketseat com as segu
 - [Date-fns](https://date-fns.org/)
 - [Multer](https://github.com/expressjs/multer)
 
-Feito com ❤️ por Matheus Pires 👋🏻 [Get in touch!](https://github.com/MatheusPires99)
+Feito com ❤️ por Alisson Andrade
